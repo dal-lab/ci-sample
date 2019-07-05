@@ -1,2 +1,1 @@
-# ci-sample
-CI Sample Project
+# CI Sample Project
